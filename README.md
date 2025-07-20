@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hi, I'm Shubhangi!👋
 
 Passionate about Web Developement | 
 Commited to use my skills to building user-friendly and responsive web applications |

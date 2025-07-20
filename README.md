@@ -1,21 +1,12 @@
 ## Hey there 👋
 
-I'm a Computer Engineering Graduate |
-Passionate about Web Development | 
+Passionate about Web Developement | 
 Commited to use my skills to building user-friendly and responsive web applications |
 Looking for opportunities  to learn, grow and make an impact through technology
 ![girl-coder](female-developer-vector.jpg)
-<!--
-hii
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍💻 I'm Computer Engineering Graduate
+- 🔭 I’m currently learning Full Stack Java Development
+- 💬 Ask me about Web Development
+- 📫 How to reach me: shubhangivanjari2020@gmail.com
+- ⚡ Fun fact: I genuinely enjoy sharing what I know, listening to others and offering helpful advice.

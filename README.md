@@ -4,7 +4,7 @@ I'm a Computer Engineering Graduate |
 Passionate about Web Development | 
 Commited to use my skills to building user-friendly and responsive web applications |
 Looking for opportunities  to learn, grow and make an impact through technology
-
+![girl-coder](female-developer-vector.jpg)
 <!--
 hii
 

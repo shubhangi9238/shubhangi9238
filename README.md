@@ -1,6 +1,6 @@
 ## Hi, I'm Shubhangi!👋
 
-Passionate about Web Developement | 
+Passionate Web Developer | 
 Commited to use my skills to building user-friendly and responsive web applications |
 Looking for opportunities  to learn, grow and make an impact through technology
 

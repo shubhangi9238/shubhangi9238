@@ -1,5 +1,6 @@
 ## Hey there 👋
 
+I'm a Computer Engineering Graduate | Passionate about Web Development | Commited to use my skills to building user-friendly and responsive web applications
 <!--
 hii
 

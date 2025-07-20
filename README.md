@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hey there 👋
 
 <!--
-**shubhangi9238/shubhangi9238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hii
 
 Here are some ideas to get you started:
 

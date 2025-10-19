@@ -2,12 +2,12 @@
   <img src=https://github.com/shubhangi9238/shubhangi9238/blob/main/girl.jpg?raw=true" alt="banner" width="60%" />
 </p>
 # Hi, I'm Shubhangi Vanjari👋
+## I'm a passionate Web Developer and eager to explore opportunities in Software Development.
+
 
 <!--
 **shubhangi9238/shubhangi9238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##I'm a passionate Web Developer and eager to explore opportunities in Software Development.

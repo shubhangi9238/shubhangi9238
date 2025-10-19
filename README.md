@@ -1,7 +1,7 @@
 <p align="center">
   <img src=https://github.com/shubhangi9238/shubhangi9238/blob/main/girl.jpg?raw=true" alt="banner" width="60%" />
 </p>
-## Hi, I'm Shubhangi Vanjari👋
+# Hi, I'm Shubhangi Vanjari👋
 
 <!--
 **shubhangi9238/shubhangi9238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://github.com/shubhangi9238/shubhangi9238/blob/main/girl.jpg?raw=true" alt="banner" width="100%" />
+  <img src=https://github.com/shubhangi9238/shubhangi9238/blob/main/girl.jpg?raw=true" alt="banner" width="70%" />
 </p>
 ## Hi, I'm Shubhangi Vanjari👋
 

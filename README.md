@@ -9,7 +9,7 @@
 
 🎓 I’m a <strong>Computer Engineering Graduate (Fresher)</strong>.  
 🌱 Currently learning <strong>Java Full Stack Development</strong>.  
-💼 Looking for <strong>full-time opportunities</strong> as a Fresher.  
+💼 Looking for <strong>Full-time opportunities</strong> as a Fresher.  
 💬 Ask me about <strong>Web Development</strong>.  
 📫 Reach me at: <strong>shubhangivanjari2020@gmail.com</strong>.  
 ⚡ Fun fact: <em>I love to share what I know!</em>

@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Shubhangi Vanjari👋
 
 <!--
 **shubhangi9238/shubhangi9238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## I'm a B. E. Computer Engineering graduated from Shram Sadhana Bombay Trust's College of Engineering and Teachnology, Jalgaon. I'm a passionate learner and software developer.
